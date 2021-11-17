@@ -4,10 +4,12 @@
 
 #Hardware: Es wird keine Hardware benötigt
 
-#Version:0.2
+#Version:0.3
 
 #Aufgabe: Ermitteln Sie für einen festgelegten Zahlenbereich
 #die Primzahlen und schreiben Sie diese in eine Liste. Geben Sie die Liste anschließend aus.
+
+#Quelle:https://www.python-forum.de/viewtopic.php?t=27913
 
 #Aufforderung in der Konsole Werte einzugeben 
 erste_zahl = input('Bitte eine Zahl eingeben ')
